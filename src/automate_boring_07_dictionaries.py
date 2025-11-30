@@ -1,5 +1,5 @@
 # Notes made during chapter 7 of Automate the Boring Stuff With Python
-# 2025-11-25
+# 2025-11-27
 
 # %% Dictionary ---------------------------------------------------------------
 

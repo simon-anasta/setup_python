@@ -1,5 +1,5 @@
 # Notes made during chapter 8 of Automate the Boring Stuff With Python
-# 2025-11-25
+# 2025-11-27
 
 # %% Strings ------------------------------------------------------------------
 
